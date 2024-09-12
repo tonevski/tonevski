@@ -3,7 +3,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title:
-    "Nikola Tonevski - Web Developer & Wordpress Specialist | Stockholm, Sweden",
+    "Nikola Tonevski - Web Developer & WordPress Specialist | Stockholm, Sweden",
   description: "Web Developer and WordPress Specialist | Stockholm, Sweden",
 }
 
