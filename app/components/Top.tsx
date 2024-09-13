@@ -14,7 +14,7 @@ const Top = () => {
       <div>
         <h1 className="text-lg text-gray-700 pb-0.5">Nikola Tonevski</h1>
         <p className="text-sm text-gray-500 pb-0.5">
-          Web Developer & Wordpress Specialist
+          Web Developer & WordPress Specialist
         </p>
         <p className="text-sm text-gray-400">Stockholm, Sweden</p>
       </div>
