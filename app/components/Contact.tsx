@@ -3,7 +3,7 @@ import ContactItem from "./ContactItem"
 const Contact = () => {
   return (
     <section className="pt-16">
-      <h2 className="text-gray-500 pb-6">Contact</h2>
+      <h2 className="text-[15px] text-gray-500 pb-6">Contact</h2>
 
       <ContactItem
         contact="Email"

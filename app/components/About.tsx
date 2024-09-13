@@ -3,7 +3,7 @@ import React from "react"
 const About = () => {
   return (
     <section className="pt-16">
-      <h2 className="text-gray-500 pb-6">About</h2>
+      <h2 className="text-[15px] text-gray-500 pb-6">About</h2>
       <p className="text-sm text-gray-500">
         Hey there! I&apos;m Nikola, a full-stack web developer and WordPress
         specialist with over a decade of hands-on experience in the field.

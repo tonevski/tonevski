@@ -4,7 +4,7 @@ import WorkItem from "./WorkItem"
 const Work = () => {
   return (
     <section className="pt-16">
-      <h2 className="text-gray-500 pb-6">Work</h2>
+      <h2 className="text-[15px] text-gray-500 pb-6">Work</h2>
 
       <WorkItem
         date="2024 — Now"
