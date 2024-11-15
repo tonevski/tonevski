@@ -16,7 +16,7 @@ const Top = () => {
         <p className="text-sm text-gray-500 pb-0.5">
           Web Developer & WordPress Specialist
         </p>
-        <p className="text-sm text-gray-400">Stockholm, Sweden</p>
+        <p className="text-sm text-gray-400">Malmö, Sweden</p>
       </div>
     </section>
   )
